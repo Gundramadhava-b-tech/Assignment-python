@@ -1,0 +1,96 @@
+UNIT-I
+INTRODUCTION TO PYTHON
+Def: Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language
+IDLE
+* Integrated Development Learning Environment.
+* Graphical user interface written in python
+* Bundled with default implementation of the python language.
+Features of IDLE
+* Multi-window text editor with syntax highlighting
+* Auto completion with smart indentation
+To create a python file Filename.py
+Values:
+* Value can be any letter, number or string
+Examples: 2, 2.5, 'Hello world'
+Variables:
+* Named place in the memory in which the values can be stored and can be retrieved for later use.
+* Name of the variable is user-defined
+* Values of Variables can be changed.
+Example. x = 12.2
+x 12.2 100
+y = 14
+x = 10
+y 14
+Features of python
+* easy-to-learn
+* High-level language
+* easy-to-maintain
+* Scalable.
+* Portable
+* interface to database
+* extensible
+* GUI Programming.
+* Free and open Source.
+Modes of python Interpreter
+Interactive Mode
+Interpreter displays the result immediately.
+Python 2.7.1 Shell
+>>> 5+2
+7
+>>> print ("Hello world")
+Hello world
+* commands and expressions are directly executed at prompt
+* Cant Save and edit the code
+* can see the results immediately
+Script Mode
+Type the program in a file with (.py) extension and then use interpreter to execute.
+Python 2-1-1.Shel
+>>> edit sample.PY
+Sample.py
+*Read and execute statement in a script
+* Can Save and edit the code
+* cannot see the results immediately,
+area.py
+x = 10
+area = 7*7*3.14
+print(area)
+To execute
+Menu bar
+↓
+Run
+(F5)
+Run module
+(F5)
+Python 2.7.1 Shell
+>>> 314.0
+Input Statements: -> inbuilt function to read the input from user
+Addition of 2 numbers
+a = int(input ("Enter the first Value"))
+b = int(input ("Enter the second Value"))
+c = a + b
+print(c)
+Olp
+Enter the first value 2
+Enter the second value 3
+5
+* input function reads the input as string value by default. Explicit conversion is required to read as int
+Reserved words:
+*Reserved words / Keywords cannot be used as Variable names /identifiers.
+and, del, for, is, raise, assent, alif, fum, lamda, return, break, else, global, not, try class, if, while, for, def, print, import..
+Ident fiers:
+* Names that identify the elements such as Variables and functions in a program.
+* ... a sequence of characters that consists of letters, digits and underscores (_)
+* ... must start with a letter or an underscore.
+* ... cannot start with a digit.
+* ... cannot be a keyword.
+* ... can be of any length.
+Assignment Statements:
+* The statement for assigning a value to a variable is called an assignment (operator) statement. operater -> Equal sign =
+Syntax: Variable = expression.
+* multiple names can be assigned at same time & chained. Ex:x, y = 2,3
+>>>> a = b = x = 2
+AVEETHA SCHOOL OF ENGINEERING
+INSTITUTE OF MEDICAL AND TECHNICAL
+SCIENCES
+CHENNAI-602105
+--- OCR End ---
